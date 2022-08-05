@@ -20,3 +20,13 @@ h1 {
   color: black;
   left: 55%;
 }
+.menuprincipal { 
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  background: rgb(233, 250, 0);
+  top: 0;
+  left: 0;
+
+
+}

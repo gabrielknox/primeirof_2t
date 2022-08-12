@@ -55,4 +55,23 @@ li a:hover{
   color: brown;
   background: black;
 }
+#imagem{
+width: 15%;
+
+}
+.boximagem{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 91%;
+  height: 200px;
+  background: black;
+  top: 50px;
+  left: 0;
+  margin: 20px;
+  border-color: brown;
+  border-width: 20px;
+  border-style: solid;
+  padding: 20px;
+}
 
